@@ -1,0 +1,11 @@
+Model Information:
+* title:	Brick Apartment (Modular Building Test)
+* source:	https://sketchfab.com/3d-models/brick-apartment-modular-building-test-8aa6e1b1396e4d41bc9e43aea9828a39
+* author:	Renafox (https://sketchfab.com/kryik1023)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Brick Apartment (Modular Building Test)" (https://sketchfab.com/3d-models/brick-apartment-modular-building-test-8aa6e1b1396e4d41bc9e43aea9828a39) by Renafox (https://sketchfab.com/kryik1023) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
